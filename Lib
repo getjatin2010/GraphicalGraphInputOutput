@@ -1,0 +1,13 @@
+here are some steps to install OPENGL library with free glut on your system
+http://wiki.codeblocks.org/index.php?title=Using_FreeGlut_with_Code::Blocks
+Don’t replace the folders. Better is to copy the files from the folder specified to the destination folder, that you might intent to replace instead.
+Complete all other steps
+https://www.dropbox.com/s/xxscf2afq5zquag/freeglut.rar?dl=0
+Copy the library from “lib” folder to “lib” folder of code blocks
+Copy the freeglut.dll file to bin of your code blocks and for copy it also to the System32 folder in windows folder in c drive
+Now open new project in code blocks, make sure you select glut project instead of console application. If you are able to see three rotating shapes then you are done with installing.
+For some tutorials on how to use free glut i preferred –
+www.lighthouse3d.com/tutorials/glut-tutorial/
+These are text tutorials .With video tutorials we have to follow the pace of the teacher so I prefer text tutorials
+This is like 10% of our project work. Next 90% has to come from within ourselves (I don’t know you are happy reading this line or sad).
+It is not at all difficult, can be easily done-JUST HANG IN AND YOU WILL BE ABLE TO DO IT!
